@@ -1,6 +1,6 @@
-# SimpleWeatherApiCLientXml
+# SimpleWeatherApiClient
 
-A simple web app for consuming APIS using ajax and xml. Practical work for the discipline of webservices of the course systems for internet 2021.
+A simple web app for consuming APIS using ajax. Practical work for the discipline of webservices of the course systems for internet 2021.
 
 ## Getting Started
 
